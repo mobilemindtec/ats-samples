@@ -2,10 +2,10 @@
 ATS lang examples
 
 
-## helloworkd 
+## helloworld
 
-make && ./hello.bin
+    $ make && ./hello.bin
 
 ## bstree
 
-make && ./bstreeg
+    $ make && ./bstreeg
